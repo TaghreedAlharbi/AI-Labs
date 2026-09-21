@@ -1,0 +1,23 @@
+?- father(ali, hassan).
+true.
+
+?- father(ali, fatimah).
+true.
+
+?- mother(aisha, hassan).
+true.
+
+?- mother(aisha, lina).
+true.
+
+?- sister(fatimah, hassan).
+true.
+
+?- sister(lina, hassan).
+true.
+
+?- brother(hassan, fatimah).
+true.
+
+?- brother(hassan, lina).
+true.
